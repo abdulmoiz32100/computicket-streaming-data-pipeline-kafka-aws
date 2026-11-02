@@ -4,7 +4,9 @@ An event-driven data streaming pipeline designed to replace high-latency browser
 
 ---
 
-## 🏗️ Architecture Overview
+## 🏗️ Architecture Overview<img width="2752" height="1536" alt="Computickets Data Pipeline Using Kafka" src="https://github.com/user-attachments/assets/e07c99e5-4db8-4681-83ce-8cd16666b227" />
+
+
 
 ```text
 [Computicket WebSocket Stream] 
