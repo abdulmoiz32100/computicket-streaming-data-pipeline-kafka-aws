@@ -1,0 +1,32 @@
+# Environment & Sensitive Credentials
+.env
+*.pem
+computicket-kafka.pem
+
+# Internal / Deprecated Scripts (Do not expose standalone scraper)
+websockets_scraper.py
+command_kafka.txt
+
+# Images & Media
+*.jfif
+*.png
+*.jpg
+*.jpeg
+Computickets Data Pipeline Using Kafka.jfif
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+websocket_scraper.log
+websocket_kafka_producer.log
+
+# System Files
+.DS_Store
+Thumbs.db
